@@ -1,0 +1,16 @@
+name: Static SEO checks
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  seo-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check static SEO metadata and sitemap
+        run: python3 scripts/seo_audit.py
