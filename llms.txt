@@ -9,5 +9,7 @@
 
 - https://promptseen-ai.github.io/articles/gemini-ai-photo-editing-prompts-for-girls.html — 20 original photo prompts for girls' portrait, fashion and aesthetic edits.
 
+- https://promptseen-ai.github.io/articles/gemini-ai-couple-photo-editing-prompts.html — 20 original romantic and candid AI couple photo prompts.
+
 ## Editorial approach
 PromptSeen AI publishes original prompt collections and helpful guides. We do not reproduce competitor article prose or assets.
