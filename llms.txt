@@ -7,5 +7,7 @@
 ## Article
 - https://promptseen-ai.github.io/articles/gemini-ai-photo-editing-prompts-for-boys.html — 20 original AI portrait prompts for boys.
 
+- https://promptseen-ai.github.io/articles/gemini-ai-photo-editing-prompts-for-girls.html — 20 original photo prompts for girls' portrait, fashion and aesthetic edits.
+
 ## Editorial approach
 PromptSeen AI publishes original prompt collections and helpful guides. We do not reproduce competitor article prose or assets.
